@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import './index.css';
 import Logo from './Sea-Land.svg';
 import Logo2 from './Google-Maps.svg';
 
